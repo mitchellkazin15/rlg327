@@ -1,0 +1,499 @@
+RLG327 MONSTER DESCRIPTION 1
+
+BEGIN MONSTER
+SYMB Z
+COLOR MAGENTA
+NAME THE DEMON KING
+BOSS 2
+DESC
+Second Boss.
+.
+ABIL SMART TELE
+SPEED 16+0d5
+HP 200+0d11
+DAM 40+1d10
+END
+
+BEGIN MONSTER
+SYMB Q
+COLOR YELLOW
+NAME THE ANT QUEEN
+BOSS 1
+DESC
+Her colony has taken over the dungeon and blocked off passage to the next level.
+.
+ABIL SMART TELE
+SPEED 6+0d5
+HP 400+0d11
+DAM 25+1d10
+END
+
+BEGIN MONSTER
+SYMB g
+COLOR GREEN
+NAME A GOBLIN
+DESC
+In some cultures, goblins are pets.
+.
+ABIL SMART ERRATIC
+SPEED 7+1d5
+HP 19+1d11
+DAM 20+1d10
+END
+
+BEGIN MONSTER
+SYMB a
+COLOR WHITE
+NAME AN ANT
+DESC
+Little nibble guys.
+.
+ABIL SMART TELEPATHIC TUNNEL
+SPEED 16+1d5
+HP 1+0d1
+DAM 8+1d10
+END
+
+BEGIN MONSTER
+SYMB a
+COLOR RED
+NAME A FIRE ANT
+DESC
+Fiery nibble guys.
+.
+ABIL SMART TELEPATHIC TUNNEL
+SPEED 19+1d5
+HP 1+0d1
+DAM 18+1d10
+END
+
+BEGIN MONSTER
+SYMB a
+COLOR BROWN
+NAME A CARPENTER ANT
+DESC
+Big nibble guys.
+.
+ABIL SMART TELEPATHIC TUNNEL
+SPEED 5+1d5
+HP 25+0d1
+DAM 18+1d10
+END
+
+BEGIN MONSTER
+SYMB h
+COLOR RED
+NAME A HELLHOUND
+DESC
+Sinner's best friend.
+.
+ABIL SMART TELE
+SPEED 15+1d7
+HP 19+1d11
+DAM 20+1d8
+END
+
+BEGIN MONSTER
+SYMB b
+COLOR MAGENTA
+NAME A VAMPIRE BAT
+DESC
+Are bats still the only mammals that can fly in this fantasy world?
+.
+ABIL TELE ERRATIC
+SPEED 7+1d5
+HP 10+1d5
+DAM 6+1d5
+END
+
+BEGIN MONSTER
+SYMB T
+COLOR BROWN
+NAME A CAVE TROLL
+DESC
+Spends half its time in caves and the other half in youtube comment sections.
+.
+ABIL ERRATIC
+SPEED 5+1d5
+HP 40+1d11
+DAM 20+1d10
+END
+
+BEGIN MONSTER
+SYMB d
+COLOR YELLOW
+NAME A DWARVEN WARRIOR
+DESC
+You'll be sorry if you get in the way of its mining.
+.
+ABIL SMART TUNNEL
+SPEED 10+0d1
+HP 30+1d3
+DAM 20+1d10
+END
+
+BEGIN MONSTER
+SYMB z
+COLOR BLUE
+NAME A ZOMBIE
+DESC
+The higher your intelligence stat, the more the zombies will want to eat you.
+Cause zombies like brains. Get it?
+.
+ABIL TELE
+SPEED 5+1d10
+HP 15+1d5
+DAM 20+1d10
+END
+
+BEGIN MONSTER
+SYMB r
+COLOR BROWN
+NAME A RAT
+DESC
+Just a rat.
+.
+ABIL SMART
+SPEED 10+1d4
+HP 5+1d2
+DAM 5+1d5
+END
+
+BEGIN MONSTER
+SYMB j
+COLOR YELLOW
+NAME A JACKAL
+DESC
+These desert dwellers are a little out of their element in the dungeon.
+.
+ABIL SMART
+SPEED 10+1d6
+HP 7+1d7
+DAM 15+1d6
+END
+
+BEGIN MONSTER
+SYMB f
+COLOR RED
+NAME A FOX
+DESC
+foxy.
+.
+ABIL SMART
+SPEED 12+1d6
+HP 6+1d6
+DAM 10+1d6
+END
+
+BEGIN MONSTER
+SYMB p
+COLOR YELLOW
+NAME A JUNIOR BARBARIAN
+DESC
+You're really gonna kill this kid? Yeah, this game is dark.
+.
+ABIL SMART
+SPEED 8+0d1
+HP 15+1d6
+DAM 10+1d6
+END
+
+BEGIN MONSTER
+SYMB i
+COLOR WHITE
+NAME A FLOATING EYE
+DESC
+Weirdly not powerful. Just a dumb floating eye.
+.
+ABIL SMART
+SPEED 5+1d6
+HP 7+1d7
+DAM 8+1d6
+END
+
+BEGIN MONSTER
+SYMB g
+COLOR WHITE
+NAME AN ALBINO GOBLIN
+DESC
+Slow and blind, but don't get too close. They hit hard.
+.
+ABIL SMART
+SPEED 4+1d3
+HP 10+1d5
+DAM 30+1d5
+END
+
+BEGIN MONSTER
+SYMB s
+COLOR WHITE
+NAME A SLOTH
+DESC
+Slow but their claws are sharp.
+.
+ABIL SMART
+SPEED 4+0d1
+HP 20+0d5
+DAM 20+0d5
+END
+
+BEGIN MONSTER
+SYMB l
+COLOR GREEN
+NAME A REPTILE CHILD
+DESC
+Gross lizard kid.
+.
+ABIL SMART
+SPEED 15+0d3
+HP 15+0d5
+DAM 15+0d5
+END
+
+BEGIN MONSTER
+SYMB m
+COLOR BLUE
+NAME A SPOOKY SPIDER
+DESC
+Speedy little buggers.
+.
+ABIL SMART TELE
+SPEED 20+0d3
+HP 5+0d5
+DAM 19+0d5
+END
+
+BEGIN MONSTER
+SYMB g
+COLOR WHITE
+NAME AN ALBINO GOBLIN
+DESC
+Slow and blind, but don't get too close. They hit hard.
+.
+ABIL SMART
+SPEED 4+1d3
+HP 10+1d5
+DAM 30+1d5
+END
+
+BEGIN MONSTER
+SYMB w
+COLOR MAGENTA
+NAME A BABY CAVE MOLE
+DESC
+Incredible senses and tunneling ability.
+.
+ABIL SMART TELE TUNNEL
+SPEED 10+0d3
+HP 14+1d5
+DAM 10+1d5
+END
+
+BEGIN MONSTER
+SYMB c
+COLOR BROWN
+NAME A CHIPMUNK
+DESC
+A cute little chipper.
+.
+ABIL ERRATIC
+SPEED 10+1d3
+HP 5+1d5
+DAM 5+1d5
+END
+
+BEGIN MONSTER
+SYMB b
+COLOR BROWN
+NAME A BABY BEAR
+DESC
+Be glad you didn't find its mother.
+.
+ABIL SMART
+SPEED 6+0d3
+HP 20+0d5
+DAM 20+0d5
+END
+
+BEGIN MONSTER
+SYMB B
+COLOR BROWN
+NAME A BEAR
+DESC
+She was trying to hibernate but you woke her up.
+.
+ABIL SMART
+SPEED 8+1d3
+HP 60+1d5
+DAM 35+1d5
+END
+
+BEGIN MONSTER
+SYMB D
+COLOR RED
+NAME A DEMON
+DESC
+Straight from the pits of hell.
+.
+ABIL SMART
+SPEED 10+1d3
+HP 50+1d5
+DAM 50+1d5
+END
+
+BEGIN MONSTER
+SYMB G
+COLOR BLUE
+NAME A GARGOYLE
+DESC
+Giant stone demon.
+.
+ABIL SMART
+SPEED 10+1d3
+HP 50+1d5
+DAM 30+1d5
+END
+
+BEGIN MONSTER
+SYMB P
+COLOR YELLOW
+NAME A GIANT
+DESC
+Usually peaceful but they make an execption for you cause you suck I guess.
+.
+ABIL SMART
+SPEED 5+1d3
+HP 60+1d5
+DAM 40+1d5
+END
+
+BEGIN MONSTER
+SYMB c
+COLOR RED
+NAME A RIVER CRAB
+DESC
+Little pinchy guy.
+.
+ABIL SMART
+SPEED 13+1d3
+HP 8+1d5
+DAM 3+1d5
+END
+
+BEGIN MONSTER
+SYMB C
+COLOR RED
+NAME A GIANT CRAB
+DESC
+Little pinchy guy.
+.
+ABIL SMART
+SPEED 13+1d3
+HP 8+1d5
+DAM 3+1d5
+END
+
+BEGIN MONSTER
+SYMB p
+COLOR BLUE
+NAME A THIEF
+DESC
+Got lost trying to loot the dungeon.
+.
+ABIL SMART
+SPEED 14+1d3
+HP 20+1d5
+DAM 23+1d5
+END
+
+BEGIN MONSTER
+SYMB p
+COLOR BROWN
+NAME A BANDIT
+DESC
+Got lost trying to loot the dungeon.
+.
+ABIL SMART
+SPEED 10+1d3
+HP 26+1d5
+DAM 23+1d5
+END
+
+BEGIN MONSTER
+SYMB d
+COLOR WHITE
+NAME A DWARVEN MINER
+DESC
+You thought these duneons just dug themselves?
+.
+ABIL TUNNEL
+SPEED 7+1d3
+HP 25+1d5
+DAM 18+1d5
+END
+
+BEGIN MONSTER
+SYMB S
+COLOR GREEN
+NAME A GIANT SERPENT
+DESC
+Big slither guy.
+.
+ABIL SMART TELE
+SPEED 17+1d3
+HP 30+1d5
+DAM 30+1d5
+END
+
+BEGIN MONSTER
+SYMB s
+COLOR GREEN
+NAME A SNAKE
+DESC
+Little slither guy.
+.
+ABIL SMART
+SPEED 10+1d3
+HP 15+1d5
+DAM 15+1d5
+END
+
+BEGIN MONSTER
+SYMB D
+COLOR GREEN
+NAME A DRAGON
+DESC
+Sadly there's no Thomas the Tank Engine mod for this game.
+.
+ABIL SMART
+SPEED 13+1d3
+HP 50+1d5
+DAM 50+1d5
+END
+
+BEGIN MONSTER
+SYMB C
+COLOR WHITE
+NAME A COCKATRICE
+DESC
+Would be able to turn you to stone if I was better at programming.
+.
+ABIL SMART
+SPEED 13+1d3
+HP 50+1d5
+DAM 65+1d5
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+

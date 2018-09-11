@@ -1,0 +1,438 @@
+RLG327 MONSTER DESCRIPTION 1
+
+BEGIN MONSTER
+SYMB g
+COLOR GREEN
+NAME A GOBLIN
+DESC
+In some cultures, goblins are pets.
+.
+ABIL SMART ERRATIC
+SPEED 7+1d5
+HP 19+1d11
+DAM 20+1d10
+END
+
+BEGIN MONSTER
+SYMB a
+COLOR WHITE
+NAME AN ANT
+DESC
+Little nibble guys.
+.
+ABIL SMART TELEPATHIC
+SPEED 16+1d5
+HP 1+0d1
+DAM 8+1d10
+END
+
+BEGIN MONSTER
+SYMB a
+COLOR RED
+NAME A FIRE ANT
+DESC
+Fiery nibble guys.
+.
+ABIL SMART TELEPATHIC
+SPEED 19+1d5
+HP 1+0d1
+DAM 18+1d10
+END
+
+BEGIN MONSTER
+SYMB a
+COLOR BROWN
+NAME A CARPENTER ANT
+DESC
+Big nibble guys.
+.
+ABIL SMART TELEPATHIC
+SPEED 5+1d5
+HP 25+0d1
+DAM 18+1d10
+END
+
+BEGIN MONSTER
+SYMB h
+COLOR BROWN
+NAME A HUNTSMAN
+DESC
+Hunts the most dangerous game.
+.
+ABIL SMART
+SPEED 7+1d5
+HP 15+1d6
+DAM 27+1d5
+END
+
+BEGIN MONSTER
+SYMB l
+COLOR GREEN
+NAME A WOODLAND ELF
+DESC
+Knows the forest better than anyone.
+.
+ABIL SMART TELE
+SPEED 13+1d5
+HP 25+0d11
+DAM 25+0d1
+END
+
+BEGIN MONSTER
+SYMB b
+COLOR MAGENTA
+NAME A VAMPIRE BAT
+DESC
+Are bats still the only mammals that can fly in this fantasy world?
+.
+ABIL TELE ERRATIC
+SPEED 7+1d5
+HP 10+1d5
+DAM 6+1d5
+END
+
+BEGIN MONSTER
+SYMB z
+COLOR BLUE
+NAME A ZOMBIE
+DESC
+The higher your intelligence stat, the more the zombies will want to eat you.
+Cause zombies like brains. Get it?
+.
+ABIL TELE
+SPEED 5+1d10
+HP 15+1d5
+DAM 20+1d10
+END
+
+BEGIN MONSTER
+SYMB r
+COLOR BROWN
+NAME A RAT
+DESC
+Just a rat.
+.
+ABIL SMART
+SPEED 10+1d4
+HP 5+1d2
+DAM 5+1d5
+END
+
+BEGIN MONSTER
+SYMB j
+COLOR YELLOW
+NAME A JACKAL
+DESC
+These desert dwellers are a little out of their element in the dungeon.
+.
+ABIL SMART
+SPEED 10+1d6
+HP 7+1d7
+DAM 15+1d6
+END
+
+BEGIN MONSTER
+SYMB f
+COLOR RED
+NAME A FOX
+DESC
+foxy.
+.
+ABIL SMART
+SPEED 12+1d6
+HP 6+1d6
+DAM 10+1d6
+END
+
+BEGIN MONSTER
+SYMB g
+COLOR WHITE
+NAME AN ALBINO GOBLIN
+DESC
+Slow and blind, but don't get too close. They hit hard.
+.
+ABIL SMART
+SPEED 4+1d3
+HP 10+1d5
+DAM 30+1d5
+END
+
+BEGIN MONSTER
+SYMB s
+COLOR WHITE
+NAME A SLOTH
+DESC
+Slow but their claws are sharp.
+.
+ABIL SMART
+SPEED 4+0d1
+HP 20+0d5
+DAM 20+0d5
+END
+
+BEGIN MONSTER
+SYMB S
+COLOR WHITE
+NAME A GIANT SLOTH
+DESC
+Slow but their claws are sharp.
+.
+ABIL SMART
+SPEED 4+0d1
+HP 45+0d5
+DAM 30+0d5
+END
+
+BEGIN MONSTER
+SYMB b
+COLOR BROWN
+NAME A BABY BEAR
+DESC
+Be glad you didn't find its mother.
+.
+ABIL SMART
+SPEED 6+0d3
+HP 20+0d5
+DAM 20+0d5
+END
+
+BEGIN MONSTER
+SYMB B
+COLOR BROWN
+NAME A BEAR
+DESC
+She was trying to hibernate but you woke her up.
+.
+ABIL SMART
+SPEED 8+1d3
+HP 60+1d5
+DAM 35+1d5
+END
+
+BEGIN MONSTER
+SYMB p
+COLOR BLUE
+NAME A THIEF
+DESC
+Got lost trying to loot the forest.
+.
+ABIL SMART
+SPEED 14+1d3
+HP 20+1d5
+DAM 23+1d5
+END
+
+BEGIN MONSTER
+SYMB p
+COLOR BROWN
+NAME A BANDIT
+DESC
+Got lost trying to loot the forest.
+.
+ABIL SMART
+SPEED 10+1d3
+HP 26+1d5
+DAM 23+1d5
+END
+
+BEGIN MONSTER
+SYMB S
+COLOR GREEN
+NAME A GIANT SERPENT
+DESC
+Big slither guy.
+.
+ABIL SMART TELE
+SPEED 17+1d3
+HP 30+1d5
+DAM 30+1d5
+END
+
+BEGIN MONSTER
+SYMB s
+COLOR GREEN
+NAME A SNAKE
+DESC
+Little slither guy.
+.
+ABIL SMART
+SPEED 10+1d3
+HP 15+1d5
+DAM 15+1d5
+END
+
+BEGIN MONSTER
+SYMB A
+COLOR WHITE
+NAME A FALLEN ANGEL
+DESC
+A beautiful creature with a heavenly aura.
+.
+ABIL SMART
+SPEED 10+0d1
+HP 45+0d5
+DAM 35+0d5
+END
+
+BEGIN MONSTER
+SYMB e
+COLOR GREEN
+NAME A FOREST PIXIE
+DESC
+Why does it want to kill you? What did you do?
+.
+ABIL SMART TELE
+SPEED 10+0d1
+HP 15+0d5
+DAM 20+0d5
+END
+
+BEGIN MONSTER
+SYMB e
+COLOR MAGENTA
+NAME A PIXIE
+DESC
+Why does it want to kill you? What did you do?
+.
+ABIL SMART TELE
+SPEED 10+0d1
+HP 20+0d5
+DAM 15+0d5
+END
+
+BEGIN MONSTER
+SYMB m
+COLOR BLUE
+NAME A SPOOKY SPIDER
+DESC
+Speedy little buggers.
+.
+ABIL SMART TELE
+SPEED 20+0d3
+HP 5+0d5
+DAM 19+0d5
+END
+
+BEGIN MONSTER
+SYMB P
+COLOR YELLOW
+NAME A GIANT
+DESC
+Usually peaceful but they make an execption for you cause you suck I guess.
+.
+ABIL SMART
+SPEED 5+1d3
+HP 60+1d5
+DAM 40+1d5
+END
+
+BEGIN MONSTER
+SYMB c
+COLOR RED
+NAME A RIVER CRAB
+DESC
+Little pinchy guy.
+.
+ABIL SMART
+SPEED 13+1d3
+HP 8+1d5
+DAM 3+1d5
+END
+
+BEGIN MONSTER
+SYMB T
+COLOR BROWN
+NAME A FOREST TROLL
+DESC
+Stomps around destroying everything in its path.
+.
+ABIL ERRATIC TUNNEL
+SPEED 3+0d5
+HP 40+1d11
+DAM 30+1d10
+END
+
+BEGIN MONSTER
+SYMB l
+COLOR YELLOW
+NAME ELVEN WARRIOR
+DESC
+Highly skilled fighter adorned with stunning golden armor.
+.
+ABIL SMART TELE
+SPEED 13+1d5
+HP 35+0d11
+DAM 35+1d10
+END
+
+BEGIN MONSTER
+SYMB c
+COLOR BROWN
+NAME A CHIPMUNK
+DESC
+A cute little chipper.
+.
+ABIL ERRATIC
+SPEED 10+1d3
+HP 5+1d5
+DAM 5+1d5
+END
+
+BEGIN MONSTER
+SYMB D
+COLOR GREEN
+NAME A DRAGON
+DESC
+Sadly there's no Thomas the Tank Engine mod for this game.
+.
+ABIL SMART
+SPEED 13+1d3
+HP 50+1d5
+DAM 50+1d5
+END
+
+BEGIN MONSTER
+SYMB C
+COLOR WHITE
+NAME A COCKATRICE
+DESC
+Would be able to turn you to stone if I was better at programming.
+.
+ABIL SMART
+SPEED 13+1d3
+HP 50+1d5
+DAM 65+1d5
+END
+
+BEGIN MONSTER
+SYMB G
+COLOR BLUE
+NAME A GARGOYLE
+DESC
+Giant stone demon.
+.
+ABIL SMART
+SPEED 10+1d3
+HP 50+1d5
+DAM 30+1d5
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

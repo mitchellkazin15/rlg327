@@ -1,0 +1,91 @@
+	1/23/2017
+	I started by creating dungeons.c which included a main() as well as a method generateRock() which will generate a dungeon filled completely with rocks of varying hardness except for the edges which are all the same hardness
+
+	1/24/2017
+	I was able to finish the random room generating function but i had a bug in the path generating function that lead to a ***stack smashing error***.
+
+	1/25/2017
+	I found the bug in the path generating function. It was due to a trying to access a field that was outside the array causing the program to crash
+
+	1/28/2017
+	Began the second project for assignment 1 continuing to use my same code from the previous assignment. Created 2 functions for reading and writing the binary file and well as the structure in main() to be able to handle load and save switches.
+
+	1/30/2017
+	I was able to implement code that was able to read and write files that I specifically created but there were bugs when i would try to read the test dungeons such as entire rooms being converted to paths after a save.
+
+ 	2/1/2017
+	Discover the bug that prevented me from reading other files correctly. It was due to my code being unable to handle different numbers of rooms than what was specifically defined in my code.
+
+	2/5/2017
+	Started assignment 1.03 by making a change to my Makefile so I could work on new projects in seperate .c files and then link them together after compiling. I also began implementing dijkstra's algorithm by using Professor Sheaffer's heap.c, heap.h, and macros.h.
+
+	2/7/2017
+	First attempt at dijkstra's had many compile errors so I scrapped the whole thing and began looking at Professor Sheaffer's implementation of dijkstra for help.
+
+	2/12/2017
+	Completed an algorithm that could compile but when it ran it produced segmentation faults.
+
+	2/13/2017
+	Finished the algorithm for tunneling monsters and easily modified it generate a distance map for non-tunneling monsters as well.
+
+	2/15/2017
+	Modified dijkstra for a third time to create better dungeon paths than my old paths and added tags "--bunker", "--tame", and "--crazy" to generate dungeons with different path types (see README for more details).
+
+	2/19/2017
+	Started assignment 1.04 by creating a new file monsters.c and adding it to the makefile. I also added unimplemented functions to get an idea of the structure.
+
+	2/20/2017
+	Created structs for monsters, player characters, and events as well as initialized them and added them to the heap.
+
+	2/21/2017
+	Implemented movement functions for all of the 16 types of monsters as well as random movement for the player character.
+
+	2/22/2017
+	completed the assignment and debugged the various movement functions.
+
+	2/27/2017
+	Started the assigment and created an ncurses window that prints centered on the player character
+
+	3/1/2017
+	Implemented the different key presses so the player can move
+
+	3/3/2017
+	Added staircases that make a new random dungeon or load one that you've already visited
+
+	3/18/2017
+	Started assignment 1.06 by creating C++ classes and class headers for Player and Monster
+
+	3/20/2017
+	Implemented constructors and methods for the classes
+
+	3/22/2017
+	created wrapper functions that allowed an interface between C and C++ and went through and fixed all compile errors in the C part of code
+
+	3/23/2017
+	Finished project by debugging and implemented for of war that allows you to see dungeon that you've already visited and lets you see monster only in a 5 block radius.
+
+	3/28/2017
+	started project 1.07 by converting all my code over to c++ and fixing all the compile errors
+
+	3/29/2017
+	created a new monster description class and a dice class and began writing a function that can read a text file and create monster descriptions and print them out
+
+	3/30/2017
+	finished project 1.07 by debugging.
+
+	4/2/2017
+	Started project by loading monster into the dungeon and debugging
+
+	4/3/2017
+	Used the professor's code for object descriptions and created object class
+
+	4/4/2017
+	loaded objects into the dungeon
+
+	4/5/2017
+	added a village level on the first dungeon level and a forest level and debugged to finish project
+
+
+
+
+
